@@ -18,4 +18,7 @@ public class Movie {
 
     @JsonProperty("Poster")
     private String poster;
+
+    @JsonProperty("Released")
+    private String relesed;
 }
