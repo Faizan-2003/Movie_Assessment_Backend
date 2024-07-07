@@ -1,2 +1,7 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦Àı´8à±şçˆ2J$fbd361a9-536a-4dbb-b792-2d113cdf0d89
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦Àı´8à±şçˆ2J$7c73f252-a4bc-4bc4-851b-0cd48c400779
+’	java:S116"PRename this field "Genre" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖãâÃ8ÎËÙëˆ2J$ba25aa42-7bcd-451f-b568-c950cd132c29
+š	java:S116"SRename this field "Director" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÌÓÇşÿÿÿÿ8øÍÚëˆ2J$826be321-14c5-4ec7-82a5-83c0759cc591
+“	java:S116#"QRename this field "Writer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ëõÂ8èÆ¶ëˆ2J$fb94e303-52b7-45c6-a39d-7fab1cba03a5
+•	java:S116)"SRename this field "Language" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÄîÜ8ùÛµëˆ2J$88f444dd-bbf4-407e-b079-3e6aa8aacc7b
+r	java:S116,"QRename this field "Awards" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¿ÖÜşÿÿÿÿ8Ï€Üëˆ2

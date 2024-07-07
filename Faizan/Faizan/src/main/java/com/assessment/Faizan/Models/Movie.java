@@ -21,4 +21,29 @@ public class Movie {
 
     @JsonProperty("Released")
     private String relesed;
+
+    @JsonProperty("Genre")
+    private String Genre;
+
+    @JsonProperty("Director")
+    private String Director;
+
+    @JsonProperty("Actors")
+    private String actors;
+
+    @JsonProperty("Writer")
+    private String Writer;
+
+    @JsonProperty("imdbRating")
+    private String imdbRating;
+
+    @JsonProperty("Language")
+    private String Language;
+
+    @JsonProperty("Awards")
+    private String Awards;
+
+
+
+
 }
